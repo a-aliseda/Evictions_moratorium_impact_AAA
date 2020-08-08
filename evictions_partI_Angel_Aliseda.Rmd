@@ -1,0 +1,20 @@
+---
+title: 'Part I: Impact of expiring eviction moratoriums on cities'
+author: "Angel Aliseda Alonso"
+date: "8/7/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+The Coronavirus Resource Center team is interested in exploring the impact of expiring eviction moratoriums in cities. To approach this issue, I would start by understanding and defining the problem behind the eviction moratoriums. First, I would like to understand more about the background of the moratorium and who is the target population of this policy. Additionally, it is also important to understand where the federally subsidized properties are and those household’s sociodemographic characteristics.
+
+Moreover, I would try to narrow down the problem by looking at the timeline and understanding the differences between the federal moratorium compared to state moratoriums. When comparing federal to state moratoriums, I would try to understand whether they target the same population and how federal and state rental subsidies are linked. I would look for other potential policies that exist that directly affect evictions, such as existent or emergency rental assistance programs, legal constraints, or any other local, state, or federal policies that directly impact rental households. Finally, I would start thinking of potential outcomes that could be of interest to the team, whether it is on eviction rate, household income, employment rate, poverty rate, homelessness, health-related outcomes, among others. The purpose of this exploration is to start defining a concise and specific research question that includes who is affected, where is the problem located, and when this problem happened. 
+
+The following step I would take is to look for available data sources to measure outcomes. First, for variables such as eviction rate or rental assistance programs, I would look for publicly available data sources that already gather information on evictions by county or state. Advocacy groups and research centers could have gathered this information if it is not already available in government sites. If this variable is still not available, I would read previous research on evictions and look at their data sources which could be their own constructed datasets or private information. The last resource would be to construct the dataset from public court filings that could be available on state and local court websites. 
+
+For other potential outcome variables such as employment rate, household income, poverty rate, or homelessness rate, I would look at the US Census Bureau and the Bureau of Labor Statistics websites for these variables. Moreover, I would also look for other variables of interest in the National Health Interview Survey that could measure the impact on health-related outcomes. Finally, I would construct a dataset that includes the federal and state moratoriums with the beginning and the expiring date. 
+
+Before looking at trends or correlations, I would try to standardize the data available. To compare evictions, rental assistance programs, and other variables between states or cities, I would calculate the rate over the number of renting households. By standardizing the variables, we will measure the impact of the expiring eviction moratoriums relative to the number of households that live in rental homes.
+
+Finally, I would start looking for relationships between the variables to find a potential control group. First, I want to know whether there is a difference in sociodemographic characteristics among households that were covered by the federal moratorium or state-imposed moratoriums and households that were not. Additionally, I would look at time trends of the proportion of rental households that benefit from subsidies and its correlation with the proportion of rental households that benefit from rental assistance programs. Moreover, I would look at the trend of the eviction rate separated by different groups, for instance, eviction rate for households that receive federal subsidies vs. households that do not or households that receive subsidies but are enrolled in a rental assistance program or not. 	
