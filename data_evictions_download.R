@@ -125,5 +125,5 @@ evictions_rental_assistance_states_2016 %>%
 # evictions_2016_clean: includes all variables from Eviction Lab and data from rental assistance programs for 2016
 # evictions_2000_2016_clean: only includes variables from Eviction Lab from 2000 to 2016
 
-save(evictions_rental_assistance_states_2016, file = "evictions_2016_clean.csv")
-save(evictions_states_clean, file = "evictions_2000_2016_clean.csv")
+write.csv(evictions_rental_assistance_states_2016, file = "evictions_2016_clean.csv")
+write.csv(evictions_states_clean, file = "evictions_2000_2016_clean.csv")
