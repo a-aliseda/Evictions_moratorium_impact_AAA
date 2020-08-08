@@ -1,5 +1,5 @@
-## Exploring the impact of expiring moratoriums in cities README
-# Angel Aliseda Alonso
+# Exploring the impact of expiring moratoriums in cities README
+## Angel Aliseda Alonso
 
 This repository contains the files and first exploration analysis for the impact of expiring moratoriums in cities.
 
