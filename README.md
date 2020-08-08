@@ -15,5 +15,5 @@ This repository contains the following files:
  + [evictions_2000_2016_clean](evictions_2000_2016_clean): dataset that only includes variables from Eviction Lab from 2000 to 2016
  
 The libraries needed to clean the data are:
- + lilibrary(aws.s3)
+ + library(aws.s3)
  + library(readxl)
